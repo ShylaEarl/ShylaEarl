@@ -1,5 +1,7 @@
 ### Hi there 👋  My name is Shyla Earl!
 
+I'm a full stack software engineer who is passionate about collaborative creative problem solving and determined to create more inclusive and accessible software because I believe that the world is better when we all get to play.
+
 - 🔭 I’m currently working on the Wonder Wander Art Application, V2. Connecting community with art through engagement.
 - 🌱 I’m currently learning how to integrate Google Maps API and AWS S3 into a React project with a node | express server.
 - 📫 How to reach me: shyla.earl@gmail.com | https://www.linkedin.com/in/shyla-earl/ | https://shylaearl.github.io/portfolio/#
