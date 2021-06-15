@@ -26,9 +26,7 @@ My Current Tech Toolbox Includes:
 ![image](https://user-images.githubusercontent.com/65361656/121976461-8570c900-cd49-11eb-8e0d-7053bfa033d8.png)
 ![image](https://user-images.githubusercontent.com/65361656/121977712-35473600-cd4c-11eb-9bb8-e5880171b024.png)
 ![image](https://user-images.githubusercontent.com/65361656/121976514-a33e2e00-cd49-11eb-98b9-0dd0066ca975.png)
-![image](https://user-images.githubusercontent.com/65361656/121976553-b4873a80-cd49-11eb-9b88-1385b51fdddb.png)
-![image](https://user-images.githubusercontent.com/65361656/121976578-be10a280-cd49-11eb-9474-8f574dbe5096.png)
-![image](https://user-images.githubusercontent.com/65361656/121976594-c5d04700-cd49-11eb-815a-8102eaf6c93d.png)
+
 
 
 
